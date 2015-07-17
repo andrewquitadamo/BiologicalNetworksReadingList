@@ -10,5 +10,5 @@ Albert R. Scale-free networks in cell biology. J Cell Sci 2005, 118:4947-4957. d
 
 Watts D and Strogatz S. Collective dynamics of 'small-world' networks. Nature 1998, 393:440-442. doi:10.1038/30918. http://www.nature.com/nature/journal/v393/n6684/full/393440a0.html ($)
 
-Milo R,Shen-Orr S,Itzkovitz S, Kashtan N, Chklovskii D, Alon U. Network Motifs: Simple Building Blocks of Complex Networks. Science 2002, 298:824-827. doi:10.1126/science.298.5594.824.
+Milo R, Shen-Orr S, Itzkovitz S, Kashtan N, Chklovskii D, Alon U. Network Motifs: Simple Building Blocks of Complex Networks. Science 2002, 298:824-827. doi:10.1126/science.298.5594.824.
 http://www.sciencemag.org/content/298/5594/824 ($)
