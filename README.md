@@ -12,3 +12,6 @@ Watts D and Strogatz S. Collective dynamics of 'small-world' networks. Nature 19
 
 Milo R, Shen-Orr S, Itzkovitz S, Kashtan N, Chklovskii D, Alon U. Network Motifs: Simple Building Blocks of Complex Networks. Science 2002, 298:824-827. doi:10.1126/science.298.5594.824.
 http://www.sciencemag.org/content/298/5594/824 ($)
+
+Marco Tulio Angulo, Jaime A. Moreno, Albert-László Barabási, Yang-Yu Liu. Fundamental limitations of network reconstruction. Arxiv 2015, arXiv:1508.03559.
+http://arxiv.org/abs/1508.03559
