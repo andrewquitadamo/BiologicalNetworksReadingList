@@ -15,3 +15,6 @@ http://www.sciencemag.org/content/298/5594/824 ($)
 
 Marco Tulio Angulo, Jaime A. Moreno, Albert-László Barabási, Yang-Yu Liu. Fundamental limitations of network reconstruction. Arxiv 2015, arXiv:1508.03559.
 http://arxiv.org/abs/1508.03559
+
+Rinnone F, Micale G, Bonnici V, Bader GD, Shasha D, Ferro A, Pulvirenti A, Giugno R. NetMatchStar: an enhanced Cytoscape network querying app. F1000Research 2015, 4:479. doi: 10.12688/f1000research.6656.1
+http://f1000research.com/articles/4-479/v1
